@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "frontangular-b2020": {
+      "hosting": {
+        "FrontAngular": [
+          "frontangular-b2020"
+        ]
+      }
+    }
+  }
+}
